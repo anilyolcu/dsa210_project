@@ -5,3 +5,5 @@ seaborn
 scipy
 pytrends
 rapidfuzz
+scikit-learn
+statsmodels
