@@ -7,3 +7,5 @@ pytrends
 rapidfuzz
 scikit-learn
 statsmodels
+jupyter
+ipykernel
